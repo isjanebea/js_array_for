@@ -1,0 +1,1 @@
+ * baixe a extensão Run code e o node js para rodar diretamente no console do visualCode. Sem precisar do uso do navegador

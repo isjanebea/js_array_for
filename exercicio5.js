@@ -1,0 +1,3 @@
+/*
+    Crie uma funcao que determine todas as faltas de todos os alunos e todas as medias de todos os alunos
+*/
